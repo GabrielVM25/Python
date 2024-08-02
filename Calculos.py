@@ -1,4 +1,3 @@
-bool 
 "Trabajo del curso de Programación, fecha: 31 de Julio del 2024"
 print ("Calculos")
 a = int(5)
@@ -56,11 +55,11 @@ while attempts < 6:
 
     if estimate == number:
         attempts = str(attempts)
-        print ("Lo has conseguido," + name + ", lograste adivinar el número en," + attempts, " intentos!")
+        print ("Lo has conseguido," " "+ name + ", lograste adivinar el número en "+ attempts, "intentos!")
 
 if estimate != number:
     number = str(number)
-    print ("Has fallado, pensaba en el número" + number)
+    print ("Has fallado, pensaba en el número"  " " + number)
 
     
 

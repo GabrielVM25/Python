@@ -1,0 +1,8 @@
+Se le pide al usuario su nombre y su edad.
+El usuario ingresa su nombre y edad correspondientes,
+    después se le pide al usuario su nota/puntuación promedio durante el curso lectivo de la asignatura.
+
+El usuario recibe un mensaje con su nombre, edad y estado en la asignatura,
+el cual varía entre aprobado, reprobado y pendiente de examen recuperatorio de la asignaturae,
+dependiendo de su puntuación académica, 
+además de su nota promedio según la información dada por el usuario.
